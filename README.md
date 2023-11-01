@@ -1,19 +1,10 @@
-# get_api_call
+# Text, Image and Complex API
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Created a versatile app for handling multiple API types.
+* The Text API effectively extracts and processes data from text sources containing titles and descriptions.
+* The Image API retrieves images and stores them in Circle Avatars. Additionally, it conveniently displays accompanying text and subtext of the user.
+* Complex API support various data formats and presents data in a straightforward.
+* Offers a flexible platform for a wide range of API-based solutions.
 
 ![api1](https://github.com/patil-paresh/Flutter-API/assets/130557013/935fd5f6-6108-4cbd-ad29-d925897541ab)
 ![api2](https://github.com/patil-paresh/Flutter-API/assets/130557013/e5410bad-86a2-45b6-9c38-88892fb9aa37)
